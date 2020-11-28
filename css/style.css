@@ -52,7 +52,11 @@ h4{
   width: 95%;
   margin: 0 auto;
 }
-
+.contenedor3{
+  max-width: 130rem;
+  width: 99%;
+  margin: 0 auto;
+}
 /**Botones**/
 .boton {
     display: block;
@@ -243,6 +247,8 @@ header{
   background-color: var(--colorOscuro);
   padding: 1rem 0;
   margin-top: 2rem;
+  max-width: 95%;
+  margin: 1rem auto;
 }
 .barra .nav{
   display: grid;
